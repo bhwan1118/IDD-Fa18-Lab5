@@ -3,7 +3,12 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+
+  ![image](https://github.com/bhwan1118/IDD-Fa18-Lab5/blob/master/Bopper.jpg)
+
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
+
+[.stl file](https://github.com/bhwan1118/IDD-Fa18-Lab5/blob/master/HXT900Mount.stl)
 
 ## Laser Cutting
 
