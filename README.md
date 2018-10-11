@@ -39,6 +39,7 @@ Include here:
 
 [Bopper Adobe File](https://github.com/bhwan1118/IDD-Fa18-Lab5/blob/master/Bopper%20Ben.ai)
 
-![image](https://github.com/bhwan1118/IDD-Fa18-Lab5/blob/master/Useless%20Box.jpg)
+Under the Hood:
+![image](https://github.com/bhwan1118/IDD-Fa18-Lab5/blob/master/Useless%20Box%20Inside.jpg)
 
 [Useless Box Demo](https://youtu.be/pJjNerlcnMU)
